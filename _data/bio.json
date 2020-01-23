@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sola Takahashi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://SoraTSky.github.io/images/molly.png",
+    "email": "solat@hawaii.edu",
+    "phone": "808-354-3357",
+    "website": "https://SoraTSky.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "98-099 Uao Pl #2603",
+      "postalCode": "96701",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,36 +17,27 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SoraTSky",
+        "url": "http://github.com/SoraTSky"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "SoraTSky",
+        "url": "http://linkedin.com/in/sola-takahashi-427b7519a/"
       }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Developing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unity",
+        "Game Maker Studio 2"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
