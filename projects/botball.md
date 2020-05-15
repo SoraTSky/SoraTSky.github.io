@@ -8,13 +8,12 @@ permalink: projects/Robotics
 date: 2018-04-21
 labels:
   - Robotics
-  - Arduino
   - C++
 summary: My team developed a two robots that competed in the BotBall competition in 2018.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/botr.png">
+  <img class="ui image" src="../images/robo.PNG">
 </div>
 
 BotBall is an event where two robots are put in on a specific game board to win as many points as possible. Each year a new game board is made for a different type of challenge to aquire points using different methods. Each year, a story to the game board is given for the challenge. The game board of the year 2018 had the game with a story of the Botguy, the mascot of Botball, helped improving the agriculture in Oklahoma. The game was to do the same as Botguy did and to improve the agriculture by moving objects from to specific locations on the board and to achieve several challenges throughout the improvment of the agriculture in the limited time given. 
