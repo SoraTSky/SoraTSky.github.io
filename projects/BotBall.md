@@ -5,7 +5,7 @@ image: images/botball.png
 title: Botball Robotics
 permalink: projects/Robotics
 # All dates must be YYYY-MM-DD format!
-date: 2017-2018
+date: 2018-03-21
 labels:
   - Robotics
   - Arduino
