@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a two robots that competed in the BotBall competition in 2018.
+summary: My team developed two robots that competed in the BotBall competition in 2018.
 ---
 
 <div class="ui small rounded images">
