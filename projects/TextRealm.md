@@ -17,8 +17,7 @@ labels:
   - GitHub
 summary: A web application project built for ICS 314.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/LandingFinal.png">
+<img class="ui medium right floated rounded image" src="../images/LandingFinal.png">
 
 TextRealm is an interactive website that allows the user to freely buy and sell textbooks from each other instead of processing purchases from the bookstore. The application allows the user to search for books to purchase and rate other users.
 
