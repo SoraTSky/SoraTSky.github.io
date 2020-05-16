@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/textrealmlogo.png
 title: TextRealm
 permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
@@ -18,7 +18,7 @@ labels:
 summary: A web application project built for ICS 314.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/LandingFinal.png">
 
 TextRealm is an interactive website that allows the user to freely buy and sell textbooks from each other instead of processing purchases from the bookstore. The application allows the user to search for books to purchase and rate other users.
 
