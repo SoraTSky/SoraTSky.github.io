@@ -76,7 +76,13 @@
       "endDate": "Present",
       "gpa": "2.8",
       "courses": [
-        "ICS": "311",
+        "Intro to Computer Science I",
+        "Discrete Math for CS I",
+        "Intro to Computer Science II",
+        "Program Structure",
+        "Discrete Mathematics II",
+        "Algorithms",
+        "Software Engineering I",
       ]
     }
   ],
